@@ -10,6 +10,5 @@ Techniques and tools used:
 1. Collections 
 2. Streams
 3. Predicates
-4. Interpreter pattern
-5. Builder pattern
-6. Git version control system
+4. Builder pattern
+5. Git version control system
