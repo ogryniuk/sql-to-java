@@ -5,7 +5,7 @@ import java.time.LocalDate;
 import java.util.List;
 
 /**
- *  The program leverages Interpreter Design pattern to parse simple SQL commands into an Abstract Syntax Tree
+ *  The program parses simple SQL commands into an Abstract Syntax Tree
  */
 public class Launcher
 {
